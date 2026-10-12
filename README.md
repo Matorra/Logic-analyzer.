@@ -1,7 +1,10 @@
 # Logic-analyzer.
 8-signal logger (3.3 V or 5 V) capable of analyzing RS232, I2C, SPI, and PWM protocols.
+
 Analizador lógico hardware.
 Analizador Lógico portátil Wi-Fi con ESP32-S3 y App Android. El circuito esta basado en una placa pcb que incluye un ESP32-S3 Zero + Buffer CJ74LVC245AGN montado sobre circuito impreso. Eso lo capacita para leer 8 señales binarias simultáneamente y analizar protocolos RS232 , I2C , SPI , PWM.  El circuito puedes realizarlo con los archivos que se incluyen en el repositorio.
+<img width="558" height="389" alt="image" src="https://github.com/user-attachments/assets/1135d356-6232-4a23-8d9c-0692b6dd605e" />
+
  
 Software de análisis.
 Se ha realizado sobre una Tablet Android, y debería funcionar con Android 12 o superior. Solo se ha probado en una Android 16.
